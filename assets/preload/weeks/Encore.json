@@ -1,0 +1,39 @@
+{
+	"storyName": "YOU'RE TOO SLOW!",
+	"difficulties": "baby, hardnt, encore, flipped",
+	"hideFreeplay": false,
+	"weekBackground": "sonic exe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"too slow Encore",
+			"Sonic",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"you-cant-run",
+			"ycr",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "sonic exe Week"
+}
