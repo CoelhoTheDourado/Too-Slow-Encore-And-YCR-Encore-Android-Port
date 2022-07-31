@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "normal_up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				226,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "scream"
+		},
+		{
+			"offsets": [
+				46,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "laugh_Instance"
+		},
+		{
+			"offsets": [
+				0,
+				47
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "normal_idle"
+		},
+		{
+			"offsets": [
+				50,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "normal_down"
+		},
+		{
+			"offsets": [
+				127,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "normal_right"
+		},
+		{
+			"offsets": [
+				0,
+				-51
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "normal_left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/officialSprite",
+	"position": [
+		-120,
+		80
+	],
+	"healthicon": "ycr",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		0,
+		101
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
